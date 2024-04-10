@@ -1,7 +1,7 @@
 # DB Dialogue
 
 <div align="center">
-  <img src="https://github.com/ManideepTelukuntla/Natural-Language-to-SQL-Chatbot/blob/main/Images/Chatbot-Interface.png" width="800" height="425" alt="Chatbot Interface">
+  <img src="Images/Chat With SQL Conversation 1.png" width="800" height="600" alt="Chatbot Interface">
   <br>
   <p>Chatbot Interface</p>
 </div>
@@ -40,17 +40,15 @@ The chatbot architecture integrates GPT-4 for processing and understanding natur
 
 Refer to `requirements.txt` in the project directory for specific versions of the frameworks and libraries used.
 
-<div align="center">
-  <img src="https://github.com/ManideepTelukuntla/Natural-Language-to-SQL-Chatbot/blob/main/Images/Tech-Stack.png" width="800" height="573" alt="Chatbot Tech Stack">
-  <br>
-  <p>Chatbot Tech Stack</p>
-</div>
-
 ## 5. File Descriptions
 - **`Chat-With-SQL-Database-App.py`**: The main Python script that integrates GPT-4 for NLP, connects and runs the SQL query against MySQL database and handles the Streamlit GUI.
 - **`chinook.db`**: This is the datbase utilized in this project, containing Digital Media Store data.
+- - **`ChinookMySQL.sql`**: SQL file to create the chinook database.
 - **`requirements.txt`**: Lists all the dependencies necessary for the project.
 - **`Images`**: Contains images related to the project for documentation and UI design.
 
 ## 6. Conclusion
 The Natural Language to SQL Chatbot represents a significant step forward in making database interactions more intuitive and accessible. By leveraging cutting-edge NLP technology and user-friendly GUI designs, it simplifies complex database queries, making it a valuable tool for users ranging from database administrators to those with minimal SQL expertise.
+
+## 7. License
+Licensed under [MIT License](https://github.com/ManideepTelukuntla/DB-Dialogue/blob/master/LICENSE)
