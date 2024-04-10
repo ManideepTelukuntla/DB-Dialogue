@@ -51,4 +51,4 @@ Refer to `requirements.txt` in the project directory for specific versions of th
 The Natural Language to SQL Chatbot represents a significant step forward in making database interactions more intuitive and accessible. By leveraging cutting-edge NLP technology and user-friendly GUI designs, it simplifies complex database queries, making it a valuable tool for users ranging from database administrators to those with minimal SQL expertise.
 
 ## 7. License
-Licensed under [MIT License](https://github.com/ManideepTelukuntla/DB-Dialogue/blob/master/LICENSE)
+Licensed under [MIT License](LICENSE)
