@@ -43,7 +43,7 @@ Refer to `requirements.txt` in the project directory for specific versions of th
 ## 5. File Descriptions
 - **`Chat-With-SQL-Database-App.py`**: The main Python script that integrates GPT-4 for NLP, connects and runs the SQL query against MySQL database and handles the Streamlit GUI.
 - **`chinook.db`**: This is the datbase utilized in this project, containing Digital Media Store data.
-- - **`ChinookMySQL.sql`**: SQL file to create the chinook database.
+- **`ChinookMySQL.sql`**: SQL file to create the chinook database.
 - **`requirements.txt`**: Lists all the dependencies necessary for the project.
 - **`Images`**: Contains images related to the project for documentation and UI design.
 
