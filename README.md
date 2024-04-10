@@ -28,7 +28,7 @@ This project introduces a conversational chatbot capable of interpreting natural
 The chatbot architecture integrates GPT-4 for processing and understanding natural language inputs. It translates these inputs into SQL queries which are then executed against a SQL database to fetch results. The frontend is built using Streamlit, offering a clean and interactive interface for users. This setup demonstrates a practical application of combining AI with web technologies for database management.
 
 <div align="center">
-  <img src="https://github.com/ManideepTelukuntla/Natural-Language-to-SQL-Chatbot/blob/main/Images/Architecture.png" width="800" height="254" alt="Chatbot Architecture">
+  <img src="Images/Chat With SQL Database Architecture Diagram.png" width="800" height="254" alt="Chatbot Architecture">
   <br>
   <p>Chatbot Architecture Overview</p>
 </div>
